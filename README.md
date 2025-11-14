@@ -2,7 +2,7 @@
 
 ## Overview
 Jones polynomial is a knot invariant.
-This jupyter notebook walks through the steps to calculate the jones polynomial of a knot
+This jupyter notebook walks through steps to calculate the jones polynomial of a knot
  by realizing the diagram of the knot as the Penrose graphical notion of a certain subcategory of the tensor category $$U_q(sl_2)$$-mod.
 ### Roadmap
 This project is a work in progress. The following are planned improvements.
