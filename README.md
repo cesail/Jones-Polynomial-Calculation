@@ -15,8 +15,11 @@ Visit my homepage https://cesail.github.io.
 ## Reference
 [1] Bakalov, B. and Kirillov, A. Lectures on Tensor Categories and Modular Functors
 AMS University Lecture Series, Volume 21. (2001).
+
 [2] Mac Lane, S. Categories for the working mathematician, Grad. Texts in Math,
 Springer New-York, 1978.
+
 [3] Turaev, V. Quantum Invariants of Knots and 3-Manifolds, de Gruyter Studies
 in Mathematics, vol. 18, Walter de Gruyter, Berlin, 1994.
+
 [4] Turaev, V. and Virelizier, A. Monoidal Categories and Topological Field Theory, Progress in Mathematics, Springer International Publishing AG 2017
