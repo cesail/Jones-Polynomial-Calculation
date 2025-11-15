@@ -2,14 +2,14 @@
 
 ## Overview
 Jones polynomial is a knot invariant.
-This jupyter notebook walks through steps to calculate the jones polynomial of a knot
- by realizing the diagram of the knot as the Penrose graphical notion of a certain subcategory of the tensor category $$U_q(sl_2)$$-mod.
+This Jupyter notebook walks through steps to calculate the Jones polynomial of a knot
+ by realizing the diagram of the knot as the Penrose graphical notation of a certain subcategory of the tensor category $U_q(sl_2)$-mod.
 
 ### Tech Stack
 Python `numpy` and `sympy`.
 
 ### Theoretical Methods
-Penrose graphical notion, tensor category, category theory, quantum groups, Hopf algebra, linear algebra, representation theory, topology, knot theory.
+Penrose graphical notation, tensor category, category theory, quantum groups, Hopf algebra, linear algebra, representation theory, topology, knot theory.
 
 ### Roadmap
 This project is a work in progress. The following are planned improvements.
